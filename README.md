@@ -11,4 +11,4 @@ modify, merge, publish, distribute, sublicense, and/or sell copies of the geomet
 Signed and sealed on March 4, 2023 by Bob Heida - author and creator
 
 
-![My Image]https://github.com/uvoz/ANDREA_HARTLOVA_GEOMETRY/blob/9d1be88fcb6c2607d4cf1d2577f9c82a5d9892e6/AndreaHartlovaGeometry_SP.jpeg
+![Example render](https://github.com/uvoz/ANDREA_HARTLOVA_GEOMETRY/blob/9d1be88fcb6c2607d4cf1d2577f9c82a5d9892e6/AndreaHartlovaGeometry_SP.jpeg)
