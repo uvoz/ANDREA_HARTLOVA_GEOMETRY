@@ -1,4 +1,4 @@
-# ANDREA HARTLOVA GEOMETRY
+# ANDREA HARTLOVA'S GEOMETRY
 This geometric shape has been crafted for Andrea Hartlova.
 
 
